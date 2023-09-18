@@ -53,7 +53,7 @@ Where:
 <b>name</b> = assign a  name to the container, for example, grafana<br>
 
 
-<v> docker.io/grafana/grafana-enterprise: </b> This is the name of the image we want to run inside the container. It's called 'grafana-enterprise,' and it's stored in a special place on the internet called 'Docker Hub.'
+**docker.io/grafana/grafana-enterprise:** This is the name of the image we want to run inside the container. It's called 'grafana-enterprise,' and it's stored in a special place on the internet called 'Docker Hub.'
 
 
 ![](images/welcome1.png)
