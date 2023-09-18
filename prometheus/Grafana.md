@@ -47,10 +47,10 @@ podman run -d -p 3001:3000 --name=grafana docker.io/grafana/grafana-enterprise
 
 Where:
 
-<b>  run</b> = run directly from the command line
-<b>d </b>= run in the background
-<b>p </b>= assign the port number, which in this case is 3001
-<b>name</b> = assign a  name to the container, for example, grafana
+<b>  run</b> = run directly from the command line<br>
+<b>d </b>= run in the background<br>
+<b>p </b>= assign the port number, which in this case is 3001<br>
+<b>name</b> = assign a  name to the container, for example, grafana<br>
 
 
 <v> docker.io/grafana/grafana-enterprise: </b> This is the name of the image we want to run inside the container. It's called 'grafana-enterprise,' and it's stored in a special place on the internet called 'Docker Hub.'
