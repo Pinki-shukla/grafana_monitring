@@ -185,6 +185,7 @@ podman run -d --name=node-exporter -p 9100:9100 -v"/:/host:ro,rslave" quay.io/pr
   The <b>podman ps</b> command is used to list the currently running containers on your system. It provides information about the containers that are actively running and includes details such as the container ID, names, status, and other relevant information.
 
  ![](/images/grafana%20images.png)
+ ![](/images/grafana%20images.png)
 
 
 
